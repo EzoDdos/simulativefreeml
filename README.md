@@ -1,2 +1,2 @@
 # simulativefreeml
-бесплатный мл курс от simulative
+Бесплатный мл курс от simulative :3 
