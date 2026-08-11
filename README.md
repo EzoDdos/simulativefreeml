@@ -6,3 +6,4 @@
 Дзшки
 Сам интенсив и код с помощью Jupiter и Python 
 
+Файлы parquete по ссылке: https://www.kaggle.com/competitions/simulative-callcenter/overview
